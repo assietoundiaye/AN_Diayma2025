@@ -97,7 +97,7 @@ Un point d’arrêt a été placé sur la toute première ligne exécutable de `
 | 12    | `Microsoft.AspNetCore.Localization`            | (middleware)                                   | Lecture du cookie/culture → définition de `CultureInfo.CurrentCulture`  | Gestion de la langue (FR/EN)                                         |
 
 
-9. Déploiement de la solution sous forme d’exécutable Windows
+## 9. Déploiement de la solution sous forme d’exécutable Windows
 
 **Contexte important** : La fonctionnalité `PublishSingleFile` n’est officiellement supportée qu’à partir de .NET Core 3.0.  
 Dans .NET Core 2.1 (notre version), elle est désactivée même si les options sont passées.
@@ -109,3 +109,11 @@ Commande exécutée :
 
 **Lien: 
 https://drive.google.com/drive/folders/1iPw6mPjLS5IXKxFVdl4sr0mL3wDqV8wA?usp=share_link
+
+
+## 8. Optionnel :
+a) Ajoutez une langue d’affichage à l’interface, Wolof par exemple. Conservez les options de
+culture du français.
+<img width="1439" height="762" alt="Capture d’écran 2025-11-24 à 22 49 22" src="https://github.com/user-attachments/assets/5c1cba29-db78-4e52-a40d-c39529c22f85" />
+
+
