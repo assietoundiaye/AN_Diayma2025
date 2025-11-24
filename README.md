@@ -48,7 +48,7 @@ Le projet nécessite le **SDK .NET Core 2.1**.
 ## 5. Créez votre propre dépôt GitHub pour y stocker le code
 
 Dépôt créé et code publié avec succès :  
-lien :https://github.com/assietoundiaye/BoutiqueDiayma2025_AS
+lien :https://github.com/assietoundiaye/AN_Diayma2025
 
 <img width="1439" height="644" alt="Capture d’écran 2025-11-24 à 15 06 36" src="https://github.com/user-attachments/assets/625981ef-9e96-44ec-bc97-a2a26e33dc5a" />
 
