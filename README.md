@@ -126,9 +126,8 @@ Dans .NET Core 2.1 (notre version), elle est désactivée même si les options s
 Commande exécutée :
 <img width="1439" height="328" alt="Capture d’écran 2025-11-24 à 20 54 37" src="https://github.com/user-attachments/assets/45d43c26-3495-4913-a55d-b157a90812b5" />
 
-**Lien: 
-https://drive.google.com/drive/folders/1iPw6mPjLS5IXKxFVdl4sr0mL3wDqV8wA?usp=share_link
-
+Lien: 
+https://drive.google.com/drive/folders/1JJ5Sq4qjWBl9VjStJvw85x35F7_y9Ht1?usp=share_link
 
 ## 8. Optionnel :
 a) Ajoutez une langue d’affichage à l’interface, Wolof par exemple. Conservez les options de
