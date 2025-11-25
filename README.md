@@ -66,11 +66,29 @@ Résumé des étapes finales :
 
 
 ## 7. Placez un point d’arrêt sur les lignes suivantes du code :
-a) CartSummaryViewComponent ligne 12
-b) ProductController ligne 15
+
+**a) CartSummaryViewComponent ligne 12
+
+<img width="1439" height="586" alt="Capture d’écran 2025-11-24 à 20 13 35" src="https://github.com/user-attachments/assets/1fa98007-dace-4f63-955d-96496f8be94d" />
+
+**b) ProductController ligne 15
+
+<img width="1439" height="596" alt="Capture d’écran 2025-11-24 à 20 19 12" src="https://github.com/user-attachments/assets/8336ba06-5c70-4618-8eb6-dbf7ac8256a7" />
+
+
 c) OrderController ligne 17
+
+<img width="1439" height="691" alt="Capture d’écran 2025-11-24 à 20 26 46" src="https://github.com/user-attachments/assets/021dc762-86f2-4bc9-a9fa-30d489fa6e69" />
+
+
 d) CartController ligne 15
+
+<img width="1439" height="673" alt="Capture d’écran 2025-11-24 à 20 29 31" src="https://github.com/user-attachments/assets/040cd41f-53fb-435a-a43f-a27503bc03cc" />
+
+
 e) Startup ligne 20
+
+<img width="1439" height="673" alt="Capture d’écran 2025-11-24 à 20 31 12" src="https://github.com/user-attachments/assets/4f59178c-0d83-434a-9f02-3d613a08dc2e" />
 
 
 ## 8. Namespaces, classes et méthodes visités avant l’affichage des produits sur l’écran d’accueil
