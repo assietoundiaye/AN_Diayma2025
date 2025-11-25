@@ -36,13 +36,14 @@ Le projet nécessite le **SDK .NET Core 2.1**.
 
 ### Étapes réalisées :
 
-1. Téléchargement du SDK .NET Core 2.1.817 (dernière version du 2.1) depuis :  
+1. Téléchargement du SDK .NET Core 2.1.817 (dernière version du 2.1) depuis   
    https://dotnet.microsoft.com/download/dotnet-core/2.1
    <img width="1439" height="681" alt="Capture d’écran 2025-11-24 à 14 00 07" src="https://github.com/user-attachments/assets/a998304d-2ef5-4b76-b30c-7762bee56487" />
-3. Installation complète du SDK + Hosting Bundle.
-<img width="1439" height="364" alt="Capture d’écran 2025-11-24 à 13 58 32" src="https://github.com/user-attachments/assets/8a492733-71a9-44a5-9229-6542344f6dbf" />
-4. Vérification avec la commande :
 
+2. Installation complète du SDK + Hosting Bundle
+<img width="1439" height="364" alt="Capture d’écran 2025-11-24 à 13 58 32" src="https://github.com/user-attachments/assets/8a492733-71a9-44a5-9229-6542344f6dbf" />
+
+3. Vérification avec la commande 
 <img width="1439" height="531" alt="Capture d’écran 2025-11-24 à 15 16 04" src="https://github.com/user-attachments/assets/f06fae91-715a-4ed4-8b5a-c91c40cd7e25" />
 
 ## 5. Créez votre propre dépôt GitHub pour y stocker le code
